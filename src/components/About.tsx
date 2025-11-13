@@ -34,7 +34,7 @@ const About = () => {
             </div>
 
             {/* /* Education */}
-            <div className="space-y-6 animate-slide-up" style={{ animationDelay: '0.1s' }}>
+            {/* <div className="space-y-6 animate-slide-up" style={{ animationDelay: '0.1s' }}>
               <Card className="gradient-card p-8 border-border/50 shadow-lg">
                 <div className="space-y-6">
                   <div className="flex items-center gap-3 mb-6">
@@ -67,7 +67,7 @@ const About = () => {
                   </div>
                 </div>
               </Card>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

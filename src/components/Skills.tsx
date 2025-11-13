@@ -5,72 +5,123 @@ import { Badge } from "@/components/ui/badge";
 
 const skillCategories = [
   {
-    title: "Programming & Libraries",
+    title: "Programming",
     icon: Code,
     skills: [
+      "JavaScript",
+      "TypeScript",
       "Python",
-      "NumPy",
-      "Pandas",
-      "Scikit-learn",
-      "Matplotlib",
-      "Seaborn",
-      "VTK",
+      "Java",
+      "C#",
+    ],
+  },
+  {
+    title: "Front End",
+    icon: Brain,
+    skills: [
+      "React",
+      "Redux",
+      "HTML5",
+      "CSS3",
+      "Tailwind",
+      "SASS",
+      "Bootstrap",
+      "PWAs",
+      "Firebase",
+    ],
+  },
+  {
+    title: "Back End",
+    icon: Cloud,
+    skills: [
+      "Node.js",
+      "Express.js",
+      "RESTful APIs",
+      "GraphQL",
+      "Flask",
+      "WebSockets",
+      "OAuth",
+      "Passport.js",
+      "System Design",
+      "Helmet.js",
+      "Postman",
+      "Web Application Security",
+    ],
+  },
+  {
+    title: "Databases",
+    icon: Database,
+    skills: [
+      "MongoDB",
+      "PostgreSQL",
       "SQL",
+      "PL/SQL",
+      "MySQL",
+      "DynamoDB",
+      "DocumentDB",
+    ],
+  },
+  {
+    title: "Cloud & DevOps",
+    icon: Cloud,
+    skills: [
+      "AWS",
+      "Docker",
+      "CI/CD",
+      "GitHub Actions",
+      "Jenkins",
+      "Git",
+      "Azure",
+      "Agile & Scrum",
     ],
   },
   {
     title: "Machine Learning",
-    icon: Brain,
-    skills: [
-      "Supervised Learning",
-      "Unsupervised Learning",
-      "Deep Learning",
-      "PyTorch",
-      "Hugging Face",
-      "LLM Optimization",
-    ],
-  },
-  {
-    title: "Cloud & MLOps",
     icon: Cloud,
     skills: [
-      "Azure ML",
-      "Azure Databricks",
-      "Docker",
-      "Prometheus",
-      "Grafana",
-      "Azure Functions",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "Scikit-Learn",
+      "TensorFlow",
+      "OpenCV",
+      "Deep Learning",
     ],
   },
   {
-    title: "Data Processing",
-    icon: Database,
-    skills: [
-      "Data Preprocessing",
-      "Data Cleaning",
-      "Feature Engineering",
-      "ETL Pipelines",
-    ],
-  },
-  {
-    title: "Tools",
+    title: "Software Knowledge",
     icon: Wrench,
     skills: [
-      "VS Code",
-      "Git",
-      "Jupyter Notebooks",
-      "Power BI",
-      "Azure Data Factory",
+      "Visual Studio Code",
+      "IntelliJ IDEA",
+      "PyCharm",
+      "Cursor",
+      "Postman",
+      "Jest",
+      "Selenium",
+      "JIRA",
+      "Trello",
+      "Figma",
+      "Adobe XD",
+      "LM Studio",
     ],
   },
   {
     title: "Soft Skills",
     icon: Users,
     skills: [
-      "Problem-Solving",
-      "Cross-functional Collaboration",
-      "Agile/Scrum",
-      "Technical Communication",
+      "Problem-solving",
+      "Communication",
+      "Teamwork",
+      "Leadership",
+      "Critical thinking",
+      "Creativity",
+      "Adaptability",
+      "Time management",
+      "Attention to detail",
+      "Coachable",
+      "Continuous learning",
+      "Accountable",
     ],
   },
 ];
@@ -136,23 +187,26 @@ const Skills = () => {
                 <div className="space-y-6">
                   <div className="space-y-2 pb-6 border-b border-border/50">
                     <h4 className="text-xl font-semibold text-primary">
-                      Master of Digital Transformation & Innovation
+                      Graduate Certificate in Artificial Intelligence and Machine Learning
                     </h4>
                     <p className="text-foreground/80 font-medium">
-                      University of Ottawa
+                      University of Toronto
                     </p>
                     <p className="text-sm text-muted-foreground">
-                      Concentration: Data Science, Machine Learning, Data
-                      Analytics, Advanced Data Management
+                        Concentration: Applied Machine Learning, Blockchain, AI and Web3 Integration, and AI Agents.
                     </p>
                   </div>
 
                   <div className="space-y-2">
                     <h4 className="text-xl font-semibold text-primary">
-                      Bachelor of Engineering, Computer Science
+                      Postgraduate Degree in Full Stack Software Developement
+
                     </h4>
                     <p className="text-foreground/80 font-medium">
-                      University of Jammu
+                      Lambton College
+                    </p>
+                    <p className="text-sm text-muted-foreground">
+                        Concentration:  User-Centric Design, Scalable API Architecture, System Design and Security, DevOps, Cloud Native Development.
                     </p>
                   </div>
                 </div>
