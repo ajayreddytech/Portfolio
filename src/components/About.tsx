@@ -1,5 +1,5 @@
-import { GraduationCap, Briefcase, Code } from 'lucide-react';
-import { Card } from '@/components/ui/card';
+import { GraduationCap, Briefcase, Code } from "lucide-react";
+import { Card } from "@/components/ui/card";
 
 const About = () => {
   return (
@@ -11,27 +11,47 @@ const About = () => {
               About <span className="text-gradient">Me</span>
             </h2>
             <p className="text-xl text-justify text-muted-foreground max-w-3xl mx-auto">
-              As an AI Analyst at JSI Telecom, I am currently focused on enhancing LLM throughput and optimizing LLM inference in resource-constrained environments.
-              My work involves developing Python benchmarking scripts and deploying secure LLM inference pipelines, working towards improved system efficiency and user support capabilities.
+              As a Full Stack Developer at NeuroLume, I built scalable,
+              user-centric systems that directly moved business metrics, not
+              just features. I led the development of a subscription checkout
+              system using React, Node.js, and Stripe, cutting checkout
+              abandonment and boosting MRR by 18% within two months. Alongside
+              that, I built an AI recommendation engine that boosted upsells and
+              AOV by 10%, optimized backend/API performance, and transformed the
+              front-end experience with modular, high-performance UI patterns,
+              lifting signup conversions.
             </p>
             <p className="text-xl text-justify text-muted-foreground max-w-3xl mx-auto">
-              Previously, I served as a Data Engineer at Indigenous Box Inc, where I automated data synchronization and built Azure Data Factory pipelines, boosting data availability for analytics, 
-              and as a Machine Learning Engineer at Tomorrow Smile, researching and developing deep learning models for dental diagnostics. My academic background includes a Master's in Digital Transformation 
-              from the University of Ottawa, where I specialized in Data Science and AI/Machine Learning.
+              Previously, at Research & Innovation Lambton College, I developed
+              real-time user profile dashboards that increased user engagement
+              and cut support tickets, built anomaly detection systems that
+              flagged unusual user behavior, and developed AWS backend systems
+              that handled 5,000+ API requests per minute. Earlier, at GDSC
+              LCIT, I built a React Native event app with a gamified
+              milestone-tracking system that boosted active event participation
+              by 40% and delivered a smooth experience for 200 users.
             </p>
             <p className="text-xl text-justify text-muted-foreground max-w-3xl mx-auto">
-              My technical expertise spans Machine Learning & Deep Learning (Scikit-learn, TensorFlow, PyTorch, Hugging Face Transformers), MLOps & Deployment (Azure ML Studio, Docker, Prometheus, Grafana), 
-              Cloud & Data Engineering (Azure Databricks, Data Factory, Functions, Synapse Analytics), and Visualization (Power BI), with strong proficiency in Python and SQL.
+              I bring a strong foundation across the MERN stack—React, Node.js,
+              TypeScript, MongoDB—supported by experience in UI/UX, Docker,
+              CI/CD, and AWS. I specialize in integrating AI and Web3 into
+              product flows and have built 40+ projects ranging from NASA
+              mission simulations to AI-powered apps, and my certifications span
+              frontend, backend, cloud, databases, applied machine learning, and
+              AI agents.
             </p>
             <p className="text-xl text-justify text-muted-foreground max-w-3xl mx-auto">
-              What sets me apart is my ability to translate complex data challenges into actionable insights, driving efficiency and innovation. I am passionate about leveraging my 
-              skills to contribute to impactful projects and am eager to bring my expertise to a forward-thinking organization. Let's connect to explore how I can add value to your team.
+              I’m a business-driven and results-oriented full-stack developer
+              who builds fast, reliable, and scalable digital products. I’m
+              actively seeking opportunities where I can grow alongside teams,
+              drive measurable product KPIs, and build the future leveraging
+              full stack, AI, and Web3. If you are looking for an ideal
+              candidate, let’s connect.
             </p>
           </div>
           <div className="grid md:grid-cols-2 gap-8 items-start">
             {/* Professional Summary */}
-            <div className="space-y-6 animate-slide-up">
-            </div>
+            <div className="space-y-6 animate-slide-up"></div>
 
             {/* /* Education */}
             {/* <div className="space-y-6 animate-slide-up" style={{ animationDelay: '0.1s' }}>

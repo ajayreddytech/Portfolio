@@ -7,13 +7,7 @@ const skillCategories = [
   {
     title: "Programming",
     icon: Code,
-    skills: [
-      "JavaScript",
-      "TypeScript",
-      "Python",
-      "Java",
-      "C#",
-    ],
+    skills: ["JavaScript", "Python", "Java", "C#"],
   },
   {
     title: "Front End",
@@ -21,6 +15,7 @@ const skillCategories = [
     skills: [
       "React",
       "Redux",
+      "TypeScript",
       "HTML5",
       "CSS3",
       "Tailwind",
@@ -44,7 +39,6 @@ const skillCategories = [
       "Passport.js",
       "System Design",
       "Helmet.js",
-      "Postman",
       "Web Application Security",
     ],
   },
@@ -59,6 +53,7 @@ const skillCategories = [
       "MySQL",
       "DynamoDB",
       "DocumentDB",
+      "FirestoreDB",
     ],
   },
   {
@@ -76,7 +71,7 @@ const skillCategories = [
     ],
   },
   {
-    title: "Machine Learning",
+    title: "AI & Machine Learning",
     icon: Cloud,
     skills: [
       "Pandas",
@@ -86,6 +81,10 @@ const skillCategories = [
       "TensorFlow",
       "OpenCV",
       "Deep Learning",
+      "AI Integration",
+      "GenAI",
+      "Prompt Engineering",
+      "LLM Testing",
     ],
   },
   {
@@ -187,26 +186,29 @@ const Skills = () => {
                 <div className="space-y-6">
                   <div className="space-y-2 pb-6 border-b border-border/50">
                     <h4 className="text-xl font-semibold text-primary">
-                      Graduate Certificate in Artificial Intelligence and Machine Learning
+                      Graduate Certificate in Artificial Intelligence and
+                      Machine Learning
                     </h4>
                     <p className="text-foreground/80 font-medium">
                       University of Toronto
                     </p>
                     <p className="text-sm text-muted-foreground">
-                        Concentration: Applied Machine Learning, Blockchain, AI and Web3 Integration, and AI Agents.
+                      Concentration: Applied Machine Learning, Blockchain, AI
+                      and Web3 Integration, and AI Agents.
                     </p>
                   </div>
 
                   <div className="space-y-2">
                     <h4 className="text-xl font-semibold text-primary">
                       Postgraduate Degree in Full Stack Software Developement
-
                     </h4>
                     <p className="text-foreground/80 font-medium">
                       Lambton College
                     </p>
                     <p className="text-sm text-muted-foreground">
-                        Concentration:  User-Centric Design, Scalable API Architecture, System Design and Security, DevOps, Cloud Native Development.
+                      Concentration: User-Centric Design, Scalable API
+                      Architecture, System Design and Security, DevOps, Cloud
+                      Native Development.
                     </p>
                   </div>
                 </div>

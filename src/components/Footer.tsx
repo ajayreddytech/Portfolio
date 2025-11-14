@@ -23,17 +23,35 @@ const Footer = () => {
             <div className="space-y-4">
               <h4 className="font-semibold">Quick Links</h4>
               <div className="flex flex-col gap-2 text-sm">
-                <a href="#about" className="text-foreground/70 hover:text-primary transition-colors">
+                <a
+                  href="#about"
+                  className="text-foreground/70 hover:text-primary transition-colors"
+                >
                   About
                 </a>
-                <a href="#experience" className="text-foreground/70 hover:text-primary transition-colors">
+                <a
+                  href="#experience"
+                  className="text-foreground/70 hover:text-primary transition-colors"
+                >
                   Experience
                 </a>
-                <a href="#skills" className="text-foreground/70 hover:text-primary transition-colors">
+                <a
+                  href="#skills"
+                  className="text-foreground/70 hover:text-primary transition-colors"
+                >
                   Skills
                 </a>
-                <a href="#projects" className="text-foreground/70 hover:text-primary transition-colors">
+                <a
+                  href="#projects"
+                  className="text-foreground/70 hover:text-primary transition-colors"
+                >
                   Projects
+                </a>
+                <a
+                  href="#certifications"
+                  className="text-foreground/70 hover:text-primary transition-colors"
+                >
+                  Certifications
                 </a>
               </div>
             </div>

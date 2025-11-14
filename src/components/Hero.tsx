@@ -10,7 +10,10 @@ const Hero = () => {
   };
 
   return (
-    <section id="hero" className="relative min-h-screen flex items-center justify-center overflow-hidden bg-gradient-to-b from-secondary/30 to-background">
+    <section
+      id="hero"
+      className="relative min-h-screen flex items-center justify-center overflow-hidden bg-gradient-to-b from-secondary/30 to-background"
+    >
       {/* Background Pattern */}
       <div className="absolute inset-0 z-0 opacity-5">
         <img
@@ -27,11 +30,11 @@ const Hero = () => {
           <div className="flex justify-center mb-8">
             <div className="relative group">
               <div className="h-64 w-64 rounded-full overflow-hidden shadow-lg border-4 border-background">
-                  <img
-                    src={headshotImage}
-                    alt="Ajay Reddy Headshot"
-                    className="w-full h-full object-cover"
-                  />
+                <img
+                  src={headshotImage}
+                  alt="Ajay Reddy Headshot"
+                  className="w-full h-full object-cover"
+                />
               </div>
               <div className="absolute inset-0 rounded-full border-4 border-primary/20 animate-pulse"></div>
             </div>
@@ -86,7 +89,7 @@ const Hero = () => {
           <div className="flex flex-wrap items-center justify-center gap-4 pt-4">
             <Button
               size="lg"
-              onClick={() => scrollToSection('#experience')}
+              onClick={() => scrollToSection("#experience")}
               className="bg-primary hover:bg-primary/90 text-primary-foreground shadow-glow"
             >
               View Experience
@@ -96,9 +99,11 @@ const Hero = () => {
               variant="outline"
               className="border-primary text-primary hover:bg-primary hover:text-primary-foreground"
               onClick={() => {
-                const link = document.createElement('a');
-                link.href = 'https://drive.google.com/uc?export=download&id=1kUREpnvG4pJLhzHcR2mGbEZhsaOgvvyv'; // replace with your file URL
-                // link.download = 'Ajay_Reddy_Resume.docx'; // optional: specify the filename
+                const link = document.createElement("a");
+                link.href =
+                  "https://drive.google.com/uc?export=download&id=1UsJgTZZ91RMSc0_nkhMMTYVhGcbOayhd"; // replace with your file URL
+                link.target = "_blank";
+                link.download = "Ajay_Reddy_Resume.pdf"; // optional: specify the filename
                 link.click();
               }}
             >
@@ -107,7 +112,7 @@ const Hero = () => {
             </Button>
             <Button
               size="lg"
-              onClick={() => scrollToSection('#contact')}
+              onClick={() => scrollToSection("#contact")}
               className="bg-primary hover:bg-primary/90 text-primary-foreground shadow-glow"
             >
               Connect With Me
@@ -117,7 +122,7 @@ const Hero = () => {
           {/* Scroll Indicator */}
           <div className="pt-12 animate-bounce">
             <button
-              onClick={() => scrollToSection('#about')}
+              onClick={() => scrollToSection("#about")}
               className="text-primary hover:text-primary/80 transition-colors"
               aria-label="Scroll to about section"
             >
