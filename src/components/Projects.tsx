@@ -30,8 +30,8 @@ const Projects = () => {
                 />
               </div>
               <div className="flex items-start gap-6 relative z-10">
-                <div className="h-16 w-16 rounded-lg bg-primary/10 flex items-center justify-center flex-shrink-0">
-                  <FileText className="h-8 w-8 text-primary" />
+                <div className="h-5 w-5 rounded-lg bg-primary/5 flex items-center justify-center flex-shrink-0">
+                  <FileText className="h-5 w-5 text-primary" />
                 </div>
 
                 <div className="flex-1 space-y-4">
@@ -94,8 +94,8 @@ const Projects = () => {
                 />
               </div>
               <div className="flex items-start gap-6 relative z-10">
-                <div className="h-16 w-16 rounded-lg bg-primary/10 flex items-center justify-center flex-shrink-0">
-                  <FileText className="h-8 w-8 text-primary" />
+                <div className="h-5 w-5 rounded-lg bg-primary/5 flex items-center justify-center flex-shrink-0">
+                  <FileText className="h-5 w-5 text-primary" />
                 </div>
 
                 <div className="flex-1 space-y-4">
@@ -157,8 +157,8 @@ const Projects = () => {
                 />
               </div>
               <div className="flex items-start gap-6 relative z-10">
-                <div className="h-16 w-16 rounded-lg bg-primary/10 flex items-center justify-center flex-shrink-0">
-                  <FileText className="h-8 w-8 text-primary" />
+                <div className="h-5 w-5 rounded-lg bg-primary/5 flex items-center justify-center flex-shrink-0">
+                  <FileText className="h-5 w-5 text-primary" />
                 </div>
 
                 <div className="flex-1 space-y-4">
@@ -223,8 +223,8 @@ const Projects = () => {
                 />
               </div>
               <div className="flex items-start gap-6 relative z-10">
-                <div className="h-16 w-16 rounded-lg bg-primary/10 flex items-center justify-center flex-shrink-0">
-                  <FileText className="h-8 w-8 text-primary" />
+                <div className="h-5 w-5 rounded-lg bg-primary/5 flex items-center justify-center flex-shrink-0">
+                  <FileText className="h-5 w-5 text-primary" />
                 </div>
 
                 <div className="flex-1 space-y-4">
