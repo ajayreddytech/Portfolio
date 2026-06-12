@@ -22,11 +22,7 @@ const About = () => {
               lifting signup conversions.
             </p>
             <p className="text-xl text-justify text-muted-foreground max-w-3xl mx-auto">
-              Previously, at Research & Innovation Lambton College, I developed
-              real-time user profile dashboards that increased user engagement
-              and cut support tickets, built anomaly detection systems that
-              flagged unusual user behavior, and developed AWS backend systems
-              that handled 5,000+ API requests per minute. Earlier, at GDSC
+              Earlier, at GDSC
               LCIT, I built a React Native event app with a gamified
               milestone-tracking system that boosted active event participation
               by 40% and delivered a smooth experience for 200 users.
@@ -45,8 +41,7 @@ const About = () => {
               who builds fast, reliable, and scalable digital products. I’m
               actively seeking opportunities where I can grow alongside teams,
               drive measurable product KPIs, and build the future leveraging
-              full stack, AI, and Web3. If you are looking for an ideal
-              candidate, let’s connect.
+              full stack, AI, and Web3. If you are looking for a strong addition to your team, let’s connect.
             </p>
           </div>
           <div className="grid md:grid-cols-2 gap-8 items-start">

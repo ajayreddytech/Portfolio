@@ -186,7 +186,7 @@ const Skills = () => {
                 <div className="space-y-6">
                   <div className="space-y-2 pb-6 border-b border-border/50">
                     <h4 className="text-xl font-semibold text-primary">
-                      Graduate Certificate in Artificial Intelligence and
+                      Certificate Program in Artificial Intelligence and
                       Machine Learning
                     </h4>
                     <p className="text-foreground/80 font-medium">
@@ -200,7 +200,7 @@ const Skills = () => {
 
                   <div className="space-y-2">
                     <h4 className="text-xl font-semibold text-primary">
-                      Postgraduate Degree in Full Stack Software Developement
+                      Graduate Certificate in Full Stack Software Developement
                     </h4>
                     <p className="text-foreground/80 font-medium">
                       Lambton College

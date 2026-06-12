@@ -5,7 +5,7 @@ const experiences = [
   {
     company: 'NeuroLume',
     role: ' Full Stack Developer',
-    period: 'Jun 2024 – May 2025',
+    period: 'Jun 2023 – May 2025',
     icon: Cloud,
     achievements: [
     'Developed an end-to-end subscription checkout system using React, Node.js, and Stripe with secure tokenization and webhooks, reducing checkout abandonment by 35% and boosting MRR by 18% within first two months of launch.',
@@ -13,20 +13,6 @@ const experiences = [
 'Optimized backend performance by profiling slow API endpoints, creating MongoDB indexes, and adding Redis cache, reducing average response time by 73% and peak CPU usage by 40%, thereby doubling the concurrent user capacity.',
 'Transformed the frontend experience by modularizing UI components and applying code-splitting and lazy loading, improving load times by 57% and increasing user signup conversions by 12% through a smoother and faster interface.',
 'Streamlined development and deployment processes by setting up CI/CD pipelines in Jenkins with automated testing in Jest, which increased deployment frequency from monthly to weekly and reduced post-release bug fixes by 70%.',
-
-    ],
-  },
-  {
-    company: 'Research & Innovation, Lambton College',
-    role: 'Full Stack Developer',
-    period: 'May 2023 – Apr 2024',
-    icon: Database,
-    achievements: [
-    'Led the development of a real-time user profile dashboard with React, Node.js, and MongoDB, integrating dynamic charts and live updates, which boosted user engagement by 14% and cut support tickets by 25% within three months.',
-'Engineered an anomaly detection system using Python and scikit-learn to flag unusual user activity, integrated into thedashboard, reducing undetected errors by 40% and increasing actionable insights for product managers by 30%.',
-'Enhanced API efficiency by refactoring endpoints, optimizing MongoDB queries, and adding pagination, which cut APIresponse time by 45% and reduced server memory usage by 30%, enabling smoother peak traffic handling.',
-'Dockerized and deployed the dashboard on AWS EC2 with Auto Scaling and a Load Balancer, enabling it to handle 5,000 API requests per minute, reducing downtime by 40%, and maintaining reliable performance under peak load.',
-'Automated repetitive testing and validation workflows by creating Jest unit and integration tests, integrated into AWS CI/CD pipelines, which reduced QA time by 28%, caught bugs earlier, and improved deployment stability by 35%.',
 
     ],
   },
