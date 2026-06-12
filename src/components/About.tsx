@@ -11,15 +11,7 @@ const About = () => {
               About <span className="text-gradient">Me</span>
             </h2>
             <p className="text-xl text-justify text-muted-foreground max-w-3xl mx-auto">
-              As a Full Stack Developer at NeuroLume, I built scalable,
-              user-centric systems that directly moved business metrics, not
-              just features. I led the development of a subscription checkout
-              system using React, Node.js, and Stripe, cutting checkout
-              abandonment and boosting MRR by 18% within two months. Alongside
-              that, I built an AI recommendation engine that boosted upsells and
-              AOV by 10%, optimized backend/API performance, and transformed the
-              front-end experience with modular, high-performance UI patterns,
-              lifting signup conversions.
+I am a Full Stack Developer focused on building scalable, reliable applications that move business metrics. Over my career, I’ve delivered 11+ full-stack web and mobile applications for enterprise clients using MERN, Java, and AWS. Owning the process from discovery to deployment and cutting average time-to-market by 30%. I specialize in shipping fast without losing stability: I’ve built multi-tenant backends that boosted system capacity by 45% while cutting server overhead costs by 20%, and optimized legacy codebases to slash load times by 62%. Whether it's setting up CI/CD pipelines to triple release velocity or rapid prototyping high-priority MVPs under tight deadlines. I focus on building clean, maintainable systems that scale seamlessly as the user base grows, which consistently turns first-time clients into long-term partners.
             </p>
             <p className="text-xl text-justify text-muted-foreground max-w-3xl mx-auto">
               Earlier, at GDSC

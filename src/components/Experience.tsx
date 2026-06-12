@@ -7,14 +7,13 @@ const experiences = [
     role: ' Full Stack Developer',
     period: 'Jun 2023 – May 2025',
     icon: Cloud,
-    achievements: [
-    'Developed an end-to-end subscription checkout system using React, Node.js, and Stripe with secure tokenization and webhooks, reducing checkout abandonment by 35% and boosting MRR by 18% within first two months of launch.',
-'Engineered an AI recommendation engine using user behavior data, integrated into the subscription checkout flow, boosting upsells by 15%, average order value by 10%, and delivering actionable insights for product decisions.',
-'Optimized backend performance by profiling slow API endpoints, creating MongoDB indexes, and adding Redis cache, reducing average response time by 73% and peak CPU usage by 40%, thereby doubling the concurrent user capacity.',
-'Transformed the frontend experience by modularizing UI components and applying code-splitting and lazy loading, improving load times by 57% and increasing user signup conversions by 12% through a smoother and faster interface.',
-'Streamlined development and deployment processes by setting up CI/CD pipelines in Jenkins with automated testing in Jest, which increased deployment frequency from monthly to weekly and reduced post-release bug fixes by 70%.',
-
-    ],
+achievements: [
+    'Delivered 11 full-stack web and mobile applications for diverse enterprise clients using MERN, Java, and AWS; owning full project lifecycle from discovery to deployment, which accelerated average time-to-market by 30% and achieved a 98% client satisfaction rate.',
+    'Architected scalable multi-tenant backend infrastructures using TypeScript, Next.js, PostgreSQL, and AWS for client-side MVPs, ensuring rapid feature iteration while boosting concurrent system capacity by 45% and reducing server overhead costs by 20%.',
+    'Optimized legacy application codebases for incoming agency clients by restructuring database schemas in MongoDB and refactoring state management, reducing page load times by 62% and driving a 15% increase in user retention metrics.',
+    'Spearheaded the cross-functional rapid prototyping of 4 high-priority client products within tight deadlines, utilizing Docker and Tailwind CSS to streamline UI delivery, which boosted project onboarding efficiency by 40% and secured $250k in renewal contracts.',
+    'Automated client deployment and testing workflows by implementing CI/CD pipelines in GitHub Actions coupled with Jest unit testing, dropping post-release production bugs by 80% and increasing weekly release velocity by 3x across all active client portfolios.'
+],
   },
   {
     company: 'Google Developer Student Club LCIT',
