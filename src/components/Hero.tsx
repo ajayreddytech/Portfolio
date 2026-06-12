@@ -101,9 +101,9 @@ const Hero = () => {
               onClick={() => {
                 const link = document.createElement("a");
                 link.href =
-                  "https://drive.google.com/uc?export=download&id=1UsJgTZZ91RMSc0_nkhMMTYVhGcbOayhd"; // replace with your file URL
+                  "https://drive.google.com/file/d/1jhPCLX34CUudtPAiZ5lRKsgWvBSuc8o9/view?usp=drive_link"; // replace with your file URL
                 link.target = "_blank";
-                link.download = "Ajay_Reddy_Resume.pdf"; // optional: specify the filename
+                link.download = "Ajay_Reddy_Full Stack Software Developer_Resume.pdf"; // optional: specify the filename
                 link.click();
               }}
             >
