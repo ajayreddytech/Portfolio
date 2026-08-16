@@ -20,132 +20,7 @@ const Projects = () => {
 
           <div className="grid md:grid-cols-2 gap-8">
             {/* Featured Project */}
-            <Card className="md:col-span-1 p-8 border-border/50 shadow-lg hover:shadow-glow transition-all duration-300 animate-slide-up relative overflow-hidden">
-              {/* Background Image */}
-              <div className="absolute inset-0 z-0 opacity-10">
-                <img
-                  src={Project1_Image}
-                  alt="Project Background"
-                  className="w-full h-full object-cover"
-                />
-              </div>
-              <div className="flex items-start gap-6 relative z-10">
-                <div className="h-5 w-5 rounded-lg bg-primary/5 flex items-center justify-center flex-shrink-0">
-                  <FileText className="h-5 w-5 text-primary" />
-                </div>
-
-                <div className="flex-1 space-y-4">
-                  <div>
-                    <div className="flex items-start justify-between gap-4 mb-2">
-                      <h3 className="text-2xl md:text-3xl font-bold">
-                        Nasa Mission Control Dashboard
-                      </h3>
-                      <Badge className="bg-primary text-primary-foreground">
-                        Featured
-                      </Badge>
-                    </div>
-                  </div>
-
-                  <p className="text-foreground/80 leading-relaxed">
-                    Simulated NASA mission operations using NASA and SpaceX API
-                    data, built a scalable, production-ready app with
-                    Express.js, React.js, and MongoDB. Dockerized and deployed
-                    on AWS EC2, enabling real-time mission monitoring.{" "}
-                  </p>
-
-                  <div className="flex flex-wrap gap-2">
-                    <Badge variant="secondary">React.js</Badge>
-                    <Badge variant="secondary">TypeScript</Badge>
-                    <Badge variant="secondary">Node.js</Badge>
-                    <Badge variant="secondary">Express.js</Badge>
-                    <Badge variant="secondary">REST APIs</Badge>
-                    <Badge variant="secondary">Amazon Web Services</Badge>
-                    <Badge variant="secondary">Docker</Badge>
-                    <Badge variant="secondary">CI/CD</Badge>
-                    <Badge variant="secondary">Git</Badge>
-                    <Badge variant="secondary">MongoDB</Badge>
-                    <Badge variant="secondary">MVC Architecture</Badge>
-                  </div>
-
-                  <Button
-                    variant="outline"
-                    className="border-primary text-primary hover:bg-primary hover:text-primary-foreground mt-4"
-                    onClick={() =>
-                      window.open(
-                        "https://github.com/ajayreddytech/NASA-Mission-Control",
-                        "_blank"
-                      )
-                    }
-                  >
-                    <ExternalLink className="mr-2 h-4 w-4" />
-                    View Project
-                  </Button>
-                </div>
-              </div>
-            </Card>
-
-            <Card className="md:col-span-1 p-8 border-border/50 shadow-lg hover:shadow-glow transition-all duration-300 animate-slide-up relative overflow-hidden">
-              {/* Background Image */}
-              <div className="absolute inset-0 z-0 opacity-10">
-                <img
-                  src={Project1_Image}
-                  alt="Project Background"
-                  className="w-full h-full object-cover"
-                />
-              </div>
-              <div className="flex items-start gap-6 relative z-10">
-                <div className="h-5 w-5 rounded-lg bg-primary/5 flex items-center justify-center flex-shrink-0">
-                  <FileText className="h-5 w-5 text-primary" />
-                </div>
-
-                <div className="flex-1 space-y-4">
-                  <div>
-                    <div className="flex items-start justify-between gap-4 mb-2">
-                      <h3 className="text-2xl md:text-3xl font-bold">
-                        Monarch Styles - Fashion Ecom Store
-                      </h3>
-                      <Badge className="bg-primary text-primary-foreground">
-                        Featured
-                      </Badge>
-                    </div>
-                  </div>
-
-                  <p className="text-foreground/80 leading-relaxed">
-                    Developed a Full-stack e-commerce website using React,
-                    Redux, TypeScript, and Firebase; Integrated Google Auth,
-                    Firestore inventory, and Stripe checkout to deliver a
-                    secure, seamless, and high-performance shopping experience.
-                  </p>
-
-                  <div className="flex flex-wrap gap-2">
-                    <Badge variant="secondary">React.js</Badge>
-                    <Badge variant="secondary">TypeScript</Badge>
-                    <Badge variant="secondary">Redux.js</Badge>
-                    <Badge variant="secondary">Firebase</Badge>
-                    <Badge variant="secondary">Stripe</Badge>
-                    <Badge variant="secondary">
-                      Progressive Web Applications (PWAs)
-                    </Badge>
-                    <Badge variant="secondary">Tailwind CSS</Badge>
-                    <Badge variant="secondary">Git</Badge>
-                  </div>
-
-                  <Button
-                    variant="outline"
-                    className="border-primary text-primary hover:bg-primary hover:text-primary-foreground mt-4"
-                    onClick={() =>
-                      window.open(
-                        "https://github.com/ajayreddytech/Monarch-Styles-Main",
-                        "_blank"
-                      )
-                    }
-                  >
-                    <ExternalLink className="mr-2 h-4 w-4" />
-                    View Project
-                  </Button>
-                </div>
-              </div>
-            </Card>
+            
 
             <Card className="md:col-span-1 p-8 border-border/50 shadow-lg hover:shadow-glow transition-all duration-300 animate-slide-up relative overflow-hidden">
               {/* Background Image */}
@@ -168,16 +43,13 @@ const Projects = () => {
                         PresenceAI
                       </h3>
                       <Badge className="bg-primary text-primary-foreground">
-                        Built @ SPUR Hacks
+                        Built @ Google Solutions Challenge (Global Top 100 Finalist)
                       </Badge>
                     </div>
                   </div>
 
                   <p className="text-foreground/80 leading-relaxed">
-                    Designed and implemented a real-time AI-powered body
-                    language analyzer using OpenCV and MediaPipe, improving
-                    public speaking effectiveness by 30% through instant
-                    confidence scoring and personalized feedback.
+●	Developed real-time AI-powered body language analyzer using OpenCV, MediaPipe, Next.js, Node.js, and MongoDB to deliver live confidence scoring, posture and speech feedback, boosting user public speaking effectiveness by 30%.
                   </p>
 
                   <div className="flex flex-wrap gap-2">
@@ -189,6 +61,8 @@ const Projects = () => {
                     <Badge variant="secondary">OpenAI API</Badge>
                     <Badge variant="secondary">Python</Badge>
                     <Badge variant="secondary">React.js</Badge>
+                    <Badge variant="secondary">Next.js</Badge>
+                    <Badge variant="secondary">Node.js</Badge>
                     <Badge variant="secondary">JavaScript</Badge>
                     <Badge variant="secondary">Express.js</Badge>
                     <Badge variant="secondary">MongoDB</Badge>
@@ -234,17 +108,13 @@ const Projects = () => {
                         RetroPix
                       </h3>
                       <Badge className="bg-primary text-primary-foreground">
-                        Built @ UofT Hacks
+                        Built @ UofT Hacks (Winner - AI & Creative Tech Track)
                       </Badge>
                     </div>
                   </div>
 
                   <p className="text-foreground/80 leading-relaxed">
-                    Built an AI-powered interactive app using Cohere API,
-                    transforming users’ outfits and surroundings to historical
-                    eras, creating immersive experiences, promoting cultural
-                    heritage, and demonstrating scalability for tourist
-                    installations.
+●	Engineered full-stack mobile app using React Native, Express.js, Python, Azure Postgres, and Cohere API to transform user outfits and surroundings into historical eras, creating immersive experiences and scalability for tourist installations.
                   </p>
 
                   <div className="flex flex-wrap gap-2">
@@ -256,6 +126,10 @@ const Projects = () => {
                     <Badge variant="secondary">UI/UX</Badge>
                     <Badge variant="secondary">Python</Badge>
                     <Badge variant="secondary">React.js</Badge>
+                    <Badge variant="secondary">React Native</Badge>
+                    <Badge variant="secondary">Express.js</Badge>
+                    <Badge variant="secondary">Python</Badge>
+                    <Badge variant="secondary">Azure Postgres</Badge>
                     <Badge variant="secondary">JavaScript</Badge>
                     <Badge variant="secondary">Tailwind CSS</Badge>
                     <Badge variant="secondary">Git</Badge>
