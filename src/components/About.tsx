@@ -54,21 +54,21 @@ I am a Full Stack Developer focused on building scalable, reliable applications 
                   <div className="space-y-6">
                     <div className="space-y-2 pb-6 border-b border-border/50">
                       <h4 className="text-xl font-semibold text-primary">
-                        Graduate Certificate in Artificial Intelligence and Machine Learning
+                        Professional Certificate, Artificial Intelligence and Machine Learning
                       </h4>
                       <p className="text-foreground/80 font-medium">University of Toronto</p>
                       <p className="text-sm text-muted-foreground">
-                        Concentration: Applied Machine Learning, Blockchain, AI and Web3 Integration, and AI Agents.
+                        Concentration: Applied Machine Learning, Autonomous AI Agents, Blockchain, Smart Contracts, AI & Web3 Integration.
                       </p>
                     </div>
 
                     <div className="space-y-2">
                       <h4 className="text-xl font-semibold text-primary">
-                        Postgraduate Degree in Full Stack Software Developement
+                        Graduate Diploma, Computer Science, Full Stack Software Development Specialization.
                       </h4>
                       <p className="text-foreground/80 font-medium">Lambton College</p>
                       <p className="text-sm text-muted-foreground">
-                        Concentration:  User-Centric Design, Scalable API Architecture, System Design and Security, DevOps, Cloud Native Development.
+                        Concentration:  User-Centric Design, Scalable API Architecture, System Design and Security, Distributed Systems, DevOps, Cloud Native Development.
                       </p>
                     </div>
                   </div>

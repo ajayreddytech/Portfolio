@@ -5,7 +5,7 @@ const experiences = [
   {
     company: 'NeuroLume',
     role: ' Full Stack Developer',
-    period: 'Jun 2023 – May 2025',
+    period: 'Mar 2024 – Feb 2026',
     icon: Cloud,
 achievements: [
     'Delivered 11 full-stack web and mobile applications for diverse enterprise clients using MERN, Java, and AWS; owning full project lifecycle from discovery to deployment, which accelerated average time-to-market by 30% and achieved a 98% client satisfaction rate.',

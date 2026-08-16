@@ -42,7 +42,7 @@ const Hero = () => {
 
           <div className="space-y-4">
             <h1 className="text-5xl md:text-7xl font-bold tracking-tight text-foreground">
-              Ajay <span className="text-gradient">Reddy</span>
+              Ajay <span className="text-gradient">Kumar Reddy</span>
             </h1>
             <p className="text-xl md:text-2xl text-muted-foreground font-medium">
               Full Stack Software Developer
