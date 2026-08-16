@@ -43,13 +43,13 @@ const Projects = () => {
                         PresenceAI
                       </h3>
                       <Badge className="bg-primary text-primary-foreground">
-                        Built @ Google Solutions Challenge (Global Top 100 Finalist)
+                        Built @ Google Solutions Challenge <br/> (Global Top 100 Finalist)
                       </Badge>
                     </div>
                   </div>
 
                   <p className="text-foreground/80 leading-relaxed">
-●	Developed real-time AI-powered body language analyzer using OpenCV, MediaPipe, Next.js, Node.js, and MongoDB to deliver live confidence scoring, posture and speech feedback, boosting user public speaking effectiveness by 30%.
+Developed real-time AI-powered body language analyzer using OpenCV, MediaPipe, Next.js, Node.js, and MongoDB to deliver live confidence scoring, posture and speech feedback, boosting user public speaking effectiveness by 30%.
                   </p>
 
                   <div className="flex flex-wrap gap-2">
@@ -108,13 +108,13 @@ const Projects = () => {
                         RetroPix
                       </h3>
                       <Badge className="bg-primary text-primary-foreground">
-                        Built @ UofT Hacks (Winner - AI & Creative Tech Track)
+                        Built @ UofT Hacks <br/> (Winner - AI & Creative Tech Track)
                       </Badge>
                     </div>
                   </div>
 
                   <p className="text-foreground/80 leading-relaxed">
-●	Engineered full-stack mobile app using React Native, Express.js, Python, Azure Postgres, and Cohere API to transform user outfits and surroundings into historical eras, creating immersive experiences and scalability for tourist installations.
+Engineered full-stack mobile app using React Native, Express.js, Python, Azure Postgres, and Cohere API to transform user outfits and surroundings into historical eras, creating immersive experiences and scalability for tourist installations.
                   </p>
 
                   <div className="flex flex-wrap gap-2">
