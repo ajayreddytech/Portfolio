@@ -32,7 +32,7 @@ const Hero = () => {
               <div className="h-64 w-64 rounded-full overflow-hidden shadow-lg border-4 border-background">
                 <img
                   src={headshotImage}
-                  alt="Ajay Reddy Headshot"
+                  alt="Ajay Kumar Reddy Headshot"
                   className="w-full h-full object-cover"
                 />
               </div>

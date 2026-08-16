@@ -13,7 +13,7 @@ const Footer = () => {
           <div className="grid md:grid-cols-3 gap-8 mb-8">
             {/* Branding */}
             <div className="space-y-4">
-              <h3 className="text-2xl font-bold text-gradient">Ajay Reddy</h3>
+              <h3 className="text-2xl font-bold text-gradient">Ajay Kumar Reddy</h3>
               <p className="text-sm text-muted-foreground">
                 Building the Future with Full Stack, AI, and Web3
               </p>
@@ -89,7 +89,7 @@ const Footer = () => {
 
           <div className="pt-8 border-t border-border flex flex-col md:flex-row items-center justify-between gap-4">
             <p className="text-sm text-muted-foreground">
-              © {new Date().getFullYear()} Ajay Reddy. All rights reserved.
+              © {new Date().getFullYear()} Ajay Kumar Reddy. All rights reserved.
             </p>
 
             <Button
