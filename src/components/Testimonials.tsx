@@ -5,7 +5,7 @@ const testimonials = [
   {
     name: "Bharat L. Vora",
     role: "GDSC Lead",
-    company: "Google Developer Student Clubs, LCIT.",
+    company: "Google Developer Student Club, LCIT.",
     content:
       "Working with Ajay on the HACK‑LCIT app was honestly one of the best parts of the event. He took complete ownership of the mobile app — from setting up the QR scanner to building the whole milestone tracking system — and he made it all look effortless. The gamified flow and the social leaderboard were fully his ideas, and they genuinely made the event more fun for everyone. What impressed me most was how he kept optimizing the app even during crunch time. The UI felt fast, clean, and smooth because he kept refining the components and fixing things without ever being asked. We had over 200 participants, and the app ran flawlessly the entire time. Ajay is the kind of developer who understands both the tech and the user side, and it really showed in this project.",
     rating: 5,
