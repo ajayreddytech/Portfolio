@@ -39,7 +39,7 @@ const Projects = () => {
                 <div className="flex-1 space-y-4">
                   <div>
                     <div className="flex flex-col items-start gap-2">
-                      <h3 className=" text-center text-2xl md:text-3xl font-bold">
+                      <h3 className=" text-center text-2xl md:text-3xl w-full font-bold">
                         PresenceAI
                       </h3>
                       <Badge className="w-full justify-center text-center py-1.5 bg-primary text-primary-foreground">
@@ -104,7 +104,7 @@ Developed real-time AI-powered body language analyzer using OpenCV, MediaPipe, N
                 <div className="flex-1 space-y-4">
                   <div>
                     <div className="flex flex-col items-start gap-2">
-                      <h3 className="text-centertext-2xl md:text-3xl font-bold">
+                      <h3 className="text-centertext-2xl md:text-3xl w-full font-bold">
                         RetroPix
                       </h3>
                       <Badge className="w-full justify-center text-center py-1.5 bg-primary text-primary-foreground">
@@ -169,7 +169,7 @@ Engineered full-stack mobile app using React Native, Express.js, Python, Azure P
                 <div className="flex-1 space-y-4">
                   <div>
                     <div className="flex flex-col items-start gap-2">
-                      <h3 className="text-center text-2xl md:text-3xl font-bold">
+                      <h3 className="text-center text-2xl md:text-3xl w-full font-bold">
                         AstroPulse
                       </h3>
                       <Badge className="w-full justify-center text-center py-1.5 bg-primary text-primary-foreground">
