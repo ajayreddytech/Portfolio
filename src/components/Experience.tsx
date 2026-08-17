@@ -17,7 +17,7 @@ achievements: [
   },
   {
     company: 'Google Developer Student Club LCIT',
-    role: 'Front End Developer',
+    role: 'Mobile Application Developer',
     period: 'Jan 2023 – Apr 2023',
     icon: Code,
     achievements: [

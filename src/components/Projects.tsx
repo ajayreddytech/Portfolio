@@ -38,7 +38,7 @@ const Projects = () => {
 
                 <div className="flex-1 space-y-4">
                   <div>
-                    <div className="flex items-start justify-between gap-4 mb-2">
+                    <div className="flex flex-col items-start gap-2">
                       <h3 className="text-2xl md:text-3xl font-bold">
                         PresenceAI
                       </h3>
@@ -103,7 +103,7 @@ Developed real-time AI-powered body language analyzer using OpenCV, MediaPipe, N
 
                 <div className="flex-1 space-y-4">
                   <div>
-                    <div className="flex items-start justify-between gap-4 mb-2">
+                    <div className="flex flex-col items-start gap-2">
                       <h3 className="text-2xl md:text-3xl font-bold">
                         RetroPix
                       </h3>
@@ -168,7 +168,7 @@ Engineered full-stack mobile app using React Native, Express.js, Python, Azure P
 
                 <div className="flex-1 space-y-4">
                   <div>
-                    <div className="flex items-start justify-between gap-4 mb-2">
+                    <div className="flex flex-col items-start gap-2">
                       <h3 className="text-2xl md:text-3xl font-bold">
                         AstroPulse
                       </h3>
