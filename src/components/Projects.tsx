@@ -152,6 +152,67 @@ Engineered full-stack mobile app using React Native, Express.js, Python, Azure P
               </div>
             </Card>
 
+            <Card className="md:col-span-1 p-8 border-border/50 shadow-lg hover:shadow-glow transition-all duration-300 animate-slide-up relative overflow-hidden">
+              {/* Background Image */}
+              <div className="absolute inset-0 z-0 opacity-10">
+                <img
+                  src={Project1_Image}
+                  alt="Project Background"
+                  className="w-full h-full object-cover"
+                />
+              </div>
+              <div className="flex items-start gap-6 relative z-10">
+                <div className="h-5 w-5 rounded-lg bg-primary/5 flex items-center justify-center flex-shrink-0">
+                  <FileText className="h-5 w-5 text-primary" />
+                </div>
+
+                <div className="flex-1 space-y-4">
+                  <div>
+                    <div className="flex items-start justify-between gap-4 mb-2">
+                      <h3 className="text-2xl md:text-3xl font-bold">
+                        AstroPulse
+                      </h3>
+                      <Badge className="bg-primary text-primary-foreground">
+                        Built @ NASA Space Apps Challenge <br/> (Nominee - Best use of Technology Track)
+                      </Badge>
+                    </div>
+                  </div>
+
+                  <p className="text-foreground/80 leading-relaxed">
+Built MERN-based full-stack NASA mission control dashboard, Dockerized and deployed on AWS EC2, to track 500+ NASA & SpaceX missions, enabling real-time launch tracking, automated mission scheduling, and habitability analysis.                  
+</p>
+
+<div className="flex flex-wrap gap-2">
+  <Badge variant="secondary">React.js</Badge>
+  <Badge variant="secondary">Node.js</Badge>
+  <Badge variant="secondary">Express.js</Badge>
+  <Badge variant="secondary">MongoDB</Badge>
+  <Badge variant="secondary">Docker</Badge>
+  <Badge variant="secondary">AWS EC2</Badge>
+  <Badge variant="secondary">REST APIs</Badge>
+  <Badge variant="secondary">NASA Open APIs</Badge>
+  <Badge variant="secondary">SpaceX API</Badge>
+  <Badge variant="secondary">JavaScript</Badge>
+  <Badge variant="secondary">Git</Badge>
+</div>
+
+                  <Button
+                    variant="outline"
+                    className="border-primary text-primary hover:bg-primary hover:text-primary-foreground mt-4"
+                    onClick={() =>
+                      window.open(
+                        "https://github.com/ajayreddytech/AstroPulse",
+                        "_blank"
+                      )
+                    }
+                  >
+                    <ExternalLink className="mr-2 h-4 w-4" />
+                    View Project
+                  </Button>
+                </div>
+              </div>
+            </Card>
+
             {/* Placeholder for Additional Projects */}
             <Card
               className="gradient-card p-8 border-border/50 shadow-lg border-dashed animate-slide-up"
