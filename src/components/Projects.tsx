@@ -42,7 +42,7 @@ const Projects = () => {
                       <h3 className="text-2xl md:text-3xl font-bold">
                         PresenceAI
                       </h3>
-                      <Badge className="bg-primary text-primary-foreground">
+                      <Badge className="w-full justify-center text-center py-1.5 bg-primary text-primary-foreground">
                         Built @ Google Solutions Challenge <br/> (Global Top 100 Finalist)
                       </Badge>
                     </div>
@@ -107,7 +107,7 @@ Developed real-time AI-powered body language analyzer using OpenCV, MediaPipe, N
                       <h3 className="text-2xl md:text-3xl font-bold">
                         RetroPix
                       </h3>
-                      <Badge className="bg-primary text-primary-foreground">
+                      <Badge className="w-full justify-center text-center py-1.5 bg-primary text-primary-foreground">
                         Built @ UofT Hacks <br/> (Winner - AI & Creative Tech Track)
                       </Badge>
                     </div>
@@ -172,7 +172,7 @@ Engineered full-stack mobile app using React Native, Express.js, Python, Azure P
                       <h3 className="text-2xl md:text-3xl font-bold">
                         AstroPulse
                       </h3>
-                      <Badge className="bg-primary text-primary-foreground">
+                      <Badge className="w-full justify-center text-center py-1.5 bg-primary text-primary-foreground">
                         Built @ NASA Space Apps Challenge <br/> (Nominee - Best use of Technology Track)
                       </Badge>
                     </div>
