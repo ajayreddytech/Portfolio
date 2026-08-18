@@ -10,7 +10,7 @@ const About = () => {
             <h2 className="text-4xl md:text-5xl font-bold">
               About <span className="text-gradient">Me</span>
             </h2>
-            <p className="text-xl text-justify text-muted-foreground max-w-3xl mx-auto">
+            <p className="text-xl text-justify text-muted-foreground max-w-4xl mx-auto">
 I am a Full-Stack Software Developer building high-performance web applications and practical AI systems that move business metrics. 
 
 
