@@ -14,18 +14,18 @@ const About = () => {
 I am a Full-Stack Software Developer building high-performance web applications and practical AI systems that move business metrics. 
 
 
-<br/>
+<br/><br/>
 
 🛠️ Core Tech:
-
+<br/>
 Frontend: React, Next.js, React Native, TypeScript, Tailwind CSS, Redux, Figma
-
+<br/>
 Backend: Node.js, Express.js, Python (FastAPI/Flask), Java, RESTful APIs, GraphQL  
-
+<br/>
 Databases: PostgreSQL, MySQL, MongoDB, Redis, DynamoDB  
-
+<br/>
 Cloud & DevOps: AWS, GCP, Docker, GitHub Actions, Jenkins, CI/CD 
-
+<br/><br/>
 
 
 Let's connect and create the next big thing together!            </p>
