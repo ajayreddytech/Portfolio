@@ -8,11 +8,17 @@ const experiences = [
     period: 'Mar 2024 – Feb 2026',
     icon: Cloud,
 achievements: [
-    'Delivered 11 full-stack web and mobile applications for diverse enterprise clients using MERN, Java, and AWS; owning full project lifecycle from discovery to deployment, which accelerated average time-to-market by 30% and achieved a 98% client satisfaction rate.',
-    'Architected scalable multi-tenant backend infrastructures using TypeScript, Next.js, PostgreSQL, and AWS for client-side MVPs, ensuring rapid feature iteration while boosting concurrent system capacity by 45% and reducing server overhead costs by 20%.',
-    'Optimized legacy application codebases for incoming agency clients by restructuring database schemas in MongoDB and refactoring state management, reducing page load times by 62% and driving a 15% increase in user retention metrics.',
-    'Spearheaded the cross-functional rapid prototyping of 4 high-priority client products within tight deadlines, utilizing Docker and Tailwind CSS to streamline UI delivery, which boosted project onboarding efficiency by 40% and secured $250k in renewal contracts.',
-    'Automated client deployment and testing workflows by implementing CI/CD pipelines in GitHub Actions coupled with Jest unit testing, dropping post-release production bugs by 80% and increasing weekly release velocity by 3x across all active client portfolios.'
+    'Architected and deployed 8 full-stack applications across e-commerce, healthcare, and real estate using React, Next.js, Express.js, AWS, and MongoDB; owned full SDLC from architectural design to deployment, resulting in 100% on-time client delivery and securing 3 contract extensions.',
+
+    'Engineered high-throughput backend architectures and secure GraphQL/REST APIs using Node.js, Python (Flask), and PostgreSQL; implemented OAuth 2.0 and JWT authentication, maintaining sub-200ms API response times alongside 99.9% production system uptime.',
+
+    'Spearheaded the development of responsive web and mobile interfaces from Figma prototypes using React, Next.js, React Native, TypeScript, Redux, and Tailwind CSS; optimized rendering pipelines to cut asset load times by 40% and increase cross-platform user engagement by 25%.',
+
+    'Optimized client database schemas and API query layers across PostgreSQL and MongoDB by implementing Redis caching layers and custom B-tree indexing; slashed server latency by 50% while decreasing AWS cloud infrastructure overhead by 20%.',
+
+    'Automated client deployment and QA pipelines by engineering multi-environment CI/CD workflows using Docker, AWS (EC2, S3, Lambda), and GitHub Actions; integrated Jest test suites, accelerating release cycles by 35% and dropping post-release production bugs by 60%.',
+
+    'Deployed production-ready conversational AI agents featuring automated intent classification and context-aware retrieval pipelines via FastAPI and modern LLM APIs; streamlined client support operations by resolving 40% of routine user inquiries autonomously.'
 ],
   },
   {

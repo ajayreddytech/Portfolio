@@ -49,7 +49,7 @@ const Projects = () => {
                   </div>
 
                   <p className="text-foreground/80 leading-relaxed">
-Developed real-time AI-powered body language analyzer using OpenCV, MediaPipe, Next.js, Node.js, and MongoDB to deliver live confidence scoring, posture and speech feedback, boosting user public speaking effectiveness by 30%.
+Developed real-time AI-powered public speaking analyzer using OpenCV, MediaPipe, Next.js, Node.js, and MongoDB to deliver live confidence scoring, posture and speech feedback, boosting user public speaking effectiveness by 30%.
                   </p>
 
                   <div className="flex flex-wrap gap-2">
@@ -114,7 +114,7 @@ Developed real-time AI-powered body language analyzer using OpenCV, MediaPipe, N
                   </div>
 
                   <p className="text-foreground/80 leading-relaxed">
-Engineered full-stack mobile app using React Native, Express.js, Python, Azure Postgres, and Cohere API to transform user outfits and surroundings into historical eras, creating immersive experiences and scalability for tourist installations.
+Engineered full-stack mobile app using React Native, Express.js, Python, Azure Postgres, and Cohere API to transform user outfits and surroundings into historical eras via generative AI workflows creating immersive experiences.
                   </p>
 
                   <div className="flex flex-wrap gap-2">
