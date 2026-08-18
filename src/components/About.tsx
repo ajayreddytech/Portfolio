@@ -16,15 +16,15 @@ I am a Full-Stack Software Developer building high-performance web applications 
 
 <br/><br/>
 
-🛠️ Core Tech:
+🛠️ <strong className="text-foreground">Core Tech:</strong>
 <br/>
-Frontend: React, Next.js, React Native, TypeScript, Tailwind CSS, Redux, Figma
+<strong className="text-foreground">Frontend:</strong> React, Next.js, React Native, TypeScript, Tailwind CSS, Redux, Figma
 <br/>
-Backend: Node.js, Express.js, Python (FastAPI/Flask), Java, RESTful APIs, GraphQL  
+<strong className="text-foreground">Backend:</strong> Node.js, Express.js, Python (FastAPI/Flask), Java, RESTful APIs, GraphQL  
 <br/>
-Databases: PostgreSQL, MySQL, MongoDB, Redis, DynamoDB  
+<strong className="text-foreground">Databases:</strong> PostgreSQL, MySQL, MongoDB, Redis, DynamoDB  
 <br/>
-Cloud & DevOps: AWS, GCP, Docker, GitHub Actions, Jenkins, CI/CD 
+<strong className="text-foreground">Cloud & DevOps:</strong> AWS, GCP, Docker, GitHub Actions, Jenkins, CI/CD 
 <br/><br/>
 
 
