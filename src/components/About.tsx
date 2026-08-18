@@ -14,6 +14,7 @@ const About = () => {
 I am a Full-Stack Software Developer building high-performance web applications and practical AI systems that move business metrics. 
 
 
+<br/>
 
 🛠️ Core Tech:
 
@@ -28,28 +29,9 @@ Cloud & DevOps: AWS, GCP, Docker, GitHub Actions, Jenkins, CI/CD
 
 
 Let's connect and create the next big thing together!            </p>
-            <p className="text-xl text-justify text-muted-foreground max-w-3xl mx-auto">
-              Earlier, at GDSC
-              LCIT, I built a React Native event app with a gamified
-              milestone-tracking system that boosted active event participation
-              by 40% and delivered a smooth experience for 200 users.
-            </p>
-            <p className="text-xl text-justify text-muted-foreground max-w-3xl mx-auto">
-              I bring a strong foundation across the MERN stack—React, Node.js,
-              TypeScript, MongoDB—supported by experience in UI/UX, Docker,
-              CI/CD, and AWS. I specialize in integrating AI and Web3 into
-              product flows and have built 40+ projects ranging from NASA
-              mission simulations to AI-powered apps, and my certifications span
-              frontend, backend, cloud, databases, applied machine learning, and
-              AI agents.
-            </p>
-            <p className="text-xl text-justify text-muted-foreground max-w-3xl mx-auto">
-              I’m a business-driven and results-oriented full-stack developer
-              who builds fast, reliable, and scalable digital products. I’m
-              actively seeking opportunities where I can grow alongside teams,
-              drive measurable product KPIs, and build the future leveraging
-              full stack, AI, and Web3. If you are looking for a strong addition to your team, let’s connect.
-            </p>
+
+
+
           </div>
           <div className="grid md:grid-cols-2 gap-8 items-start">
             {/* Professional Summary */}
