@@ -11,8 +11,23 @@ const About = () => {
               About <span className="text-gradient">Me</span>
             </h2>
             <p className="text-xl text-justify text-muted-foreground max-w-3xl mx-auto">
-I am a Full Stack Developer focused on building scalable, reliable applications that move business metrics. Over my career, I’ve delivered 11+ full-stack web and mobile applications for enterprise clients using MERN, Java, and AWS. Owning the process from discovery to deployment and cutting average time-to-market by 30%. I specialize in shipping fast without losing stability: I’ve built multi-tenant backends that boosted system capacity by 45% while cutting server overhead costs by 20%, and optimized legacy codebases to slash load times by 62%. Whether it's setting up CI/CD pipelines to triple release velocity or rapid prototyping high-priority MVPs under tight deadlines. I focus on building clean, maintainable systems that scale seamlessly as the user base grows, which consistently turns first-time clients into long-term partners.
-            </p>
+I am a Full-Stack Software Developer building high-performance web applications and practical AI systems that move business metrics. 
+
+
+
+🛠️ Core Tech:
+
+Frontend: React, Next.js, React Native, TypeScript, Tailwind CSS, Redux, Figma
+
+Backend: Node.js, Express.js, Python (FastAPI/Flask), Java, RESTful APIs, GraphQL  
+
+Databases: PostgreSQL, MySQL, MongoDB, Redis, DynamoDB  
+
+Cloud & DevOps: AWS, GCP, Docker, GitHub Actions, Jenkins, CI/CD 
+
+
+
+Let's connect and create the next big thing together!            </p>
             <p className="text-xl text-justify text-muted-foreground max-w-3xl mx-auto">
               Earlier, at GDSC
               LCIT, I built a React Native event app with a gamified
