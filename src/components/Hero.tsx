@@ -101,7 +101,7 @@ const Hero = () => {
               onClick={() => {
                 const link = document.createElement("a");
                 link.href =
-                  "https://drive.google.com/file/d/1oDbiEjX7YD9YvhZUMz1g8pBCcJYf_F15/view?usp=sharing"; // replace with your file URL
+                  "https://drive.google.com/file/d/12C-jA2N2n-MO-9BdsRc5Uzf3YZNcXqae/view?usp=drive_link"; // replace with your file URL
                 link.target = "_blank";
                 link.download = "Ajay_Reddy_FullStackSoftwareDeveloper_Resume.pdf"; // optional: specify the filename
                 link.click();

@@ -8,17 +8,17 @@ const experiences = [
     period: 'Mar 2024 – Feb 2026',
     icon: Cloud,
 achievements: [
-    'Architected and deployed 8 full-stack applications across e-commerce, healthcare, and real estate using React, Next.js, Express.js, AWS, and MongoDB; owned full SDLC from architectural design to deployment, resulting in 100% on-time client delivery and securing 3 contract extensions.',
+    'Architected and deployed 4 full-stack applications across e-commerce and real estate using React, Next.js, Express.js, AWS, and MongoDB, owning full SDLC, resulting in 100% on-time client delivery and 3 contract extensions.',
 
-    'Engineered high-throughput backend architectures and secure GraphQL/REST APIs using Node.js, Python (Flask), and PostgreSQL; implemented OAuth 2.0 and JWT authentication, maintaining sub-200ms API response times alongside 99.9% production system uptime.',
+    'Spearheaded the development of responsive web/mobile interfaces from Figma prototypes using React, Next.js, React Native, TypeScript, Redux, and Tailwind CSS, cutting asset load times by 40% via lazy loading and image optimization.',
 
-    'Spearheaded the development of responsive web and mobile interfaces from Figma prototypes using React, Next.js, React Native, TypeScript, Redux, and Tailwind CSS; optimized rendering pipelines to cut asset load times by 40% and increase cross-platform user engagement by 25%.',
+    'Engineered secure REST and GraphQL API endpoints using Node.js, Python (Flask), and PostgreSQL, implementing OAuth 2.0 and JWT authentication to maintain reliable API communication with sub-200ms average response times.',
 
-    'Optimized client database schemas and API query layers across PostgreSQL and MongoDB by implementing Redis caching layers and custom B-tree indexing; slashed server latency by 50% while decreasing AWS cloud infrastructure overhead by 20%.',
+    'Optimized relational and NoSQL database layers by creating compound indexes and execution-plan optimizations across PostgreSQL and MongoDB, cutting average query latency by 50% and eliminating slow query bottlenecks.',
 
-    'Automated client deployment and QA pipelines by engineering multi-environment CI/CD workflows using Docker, AWS (EC2, S3, Lambda), and GitHub Actions; integrated Jest test suites, accelerating release cycles by 35% and dropping post-release production bugs by 60%.',
+    'Streamlined multi-environment deployment workflows by configuring Docker containers and GitHub Actions CI/CD pipelines, integrating Jest unit tests to reduce integration errors and accelerate release cycles by 25%.',
 
-    'Deployed production-ready conversational AI agents featuring automated intent classification and context-aware retrieval pipelines via FastAPI and modern LLM APIs; streamlined client support operations by resolving 40% of routine user inquiries autonomously.'
+    'Built conversational AI agents featuring automated intent classification and context-aware retrieval via FastAPI, LangChain, and LLM APIs, resolving 40% of routine user inquiries without human intervention.'
 ],
   },
   {

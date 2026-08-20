@@ -11,24 +11,34 @@ const About = () => {
               About <span className="text-gradient">Me</span>
             </h2>
             <p className="text-xl text-justify text-muted-foreground max-w-4xl mx-auto">
-I am a Full-Stack Software Developer building high-performance web applications and practical AI systems that move business metrics. 
+I am a Full Stack Software Developer with 2 years of experience building scalable web applications and AI workflows across modern JavaScript and Python ecosystems. Proven track record of delivering 4 end-to-end full-stack applications and integrating LLMs that drive measurable business impact.
 
+<br/><br/>
 
+🏆 <strong className="text-foreground">Achievements:</strong>
+<br/>
+• Global Top 100 Finalist — Google Solution Challenge
+<br/>
+• Nominee (Best Use of Technology Track) — NASA Space Apps Challenge
+<br/>
+• Winner (AI & Creative Technology Track) — UofTHacks, University of Toronto
 <br/><br/>
 
 🛠️ <strong className="text-foreground">Core Tech:</strong>
 <br/>
 <strong className="text-foreground">Frontend:</strong> React, Next.js, React Native, TypeScript, Tailwind CSS, Redux, Figma
 <br/>
-<strong className="text-foreground">Backend:</strong> Node.js, Express.js, Python (FastAPI/Flask), Java, RESTful APIs, GraphQL  
+<strong className="text-foreground">Backend:</strong> Node.js, Express.js, Python (FastAPI/Flask), Java, RESTful APIs, GraphQL
 <br/>
-<strong className="text-foreground">Databases:</strong> PostgreSQL, MySQL, MongoDB, Redis, DynamoDB  
+<strong className="text-foreground">Databases:</strong> PostgreSQL, MySQL, MongoDB, Redis, DynamoDB
 <br/>
-<strong className="text-foreground">Cloud & DevOps:</strong> AWS, GCP, Docker, GitHub Actions, Jenkins, CI/CD 
+<strong className="text-foreground">Cloud & DevOps:</strong> AWS, GCP, Docker, GitHub Actions, Jenkins, CI/CD
+
 <br/><br/>
+Let's connect and create the next big thing together!
 
-
-Let's connect and create the next big thing together!            </p>
+          
+ </p>
 
 
 

@@ -43,14 +43,13 @@ const Projects = () => {
                         PresenceAI
                       </h3>
                       <Badge className="w-full justify-center text-center py-1.5 bg-primary text-primary-foreground">
-                        Built @ Google Solutions Challenge <br/> (Global Top 100 Finalist)
+                        Built @ Google Solution Challenge <br/> (Global Top 100 Finalist)
                       </Badge>
                     </div>
                   </div>
 
                   <p className="text-foreground/80 leading-relaxed">
-Developed real-time AI-powered public speaking analyzer using OpenCV, MediaPipe, Next.js, Node.js, and MongoDB to deliver live confidence scoring, posture and speech feedback, boosting user public speaking effectiveness by 30%.
-                  </p>
+●	Developed a real-time AI-powered public speaking analyzer using OpenCV, MediaPipe, Next.js, Node.js, and MongoDB, integrating computer vision models to deliver live confidence scoring, posture, and speech feedback.                  </p>
 
                   <div className="flex flex-wrap gap-2">
                     <Badge variant="secondary">Artificial Intelligence</Badge>
@@ -114,8 +113,7 @@ Developed real-time AI-powered public speaking analyzer using OpenCV, MediaPipe,
                   </div>
 
                   <p className="text-foreground/80 leading-relaxed">
-Engineered full-stack mobile app using React Native, Express.js, Python, Azure Postgres, and Cohere API to transform user outfits and surroundings into historical eras via generative AI workflows creating immersive experiences.
-                  </p>
+●	Engineered a full-stack mobile app using React Native, Express.js, Python, Azure PostgreSQL, and Cohere API to transform user outfits and surroundings into historical eras via generative AI workflows creating immersive experiences.                  </p>
 
                   <div className="flex flex-wrap gap-2">
                     <Badge variant="secondary">Artificial Intelligence</Badge>
@@ -179,8 +177,7 @@ Engineered full-stack mobile app using React Native, Express.js, Python, Azure P
                   </div>
 
                   <p className="text-foreground/80 leading-relaxed">
-Built MERN-based full-stack NASA mission control dashboard, Dockerized and deployed on AWS EC2, to track 500+ NASA & SpaceX missions, enabling real-time launch tracking, automated mission scheduling, and habitability analysis.                  
-</p>
+●	Built a MERN-based full-stack NASA mission control dashboard, Dockerized and deployed on AWS EC2, to track 500+ NASA & SpaceX missions, enabling real-time launch tracking and automated mission scheduling.</p>
 
 <div className="flex flex-wrap gap-2">
   <Badge variant="secondary">React.js</Badge>
